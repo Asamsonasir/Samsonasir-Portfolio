@@ -28,7 +28,7 @@
     .photo-box {
       width: 50%;
       height: 50%;
-      background: url('../media/sam.jpg') no-repeat center center/cover;
+      background: url('./media/sam.jpg') no-repeat center center/cover;
       border-radius: 50%;
       transition: transform 0.4s ease, box-shadow 0.4s ease;
       transform-style: preserve-3d;
